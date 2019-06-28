@@ -20,4 +20,5 @@ public class MainController {
 		public String getHppagina() {
 			return "other/Home";
 		}
+		
 }

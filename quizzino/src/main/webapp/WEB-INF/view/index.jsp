@@ -5,7 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Login_page</title>
-<link rel="stylesheet" type="text/css" href="/CSS/main.css">
+<link href="<c:url value="/resources/css/main.css" />" rel="stylesheet">
 </head>
 <body>
 <h1>Benvenuto in Quizzino!</h1>
@@ -22,7 +22,7 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
-    <button type="submit">Login</button>
+    <button id="button" type="submit">Login</button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
     </label>
