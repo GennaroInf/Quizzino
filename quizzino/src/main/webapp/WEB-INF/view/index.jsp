@@ -5,7 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Login_page</title>
-<link href="<c:url value="/resources/css/main.css" />" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../resources/theme/css/main.css">
 </head>
 <body>
 <h1>Benvenuto in Quizzino!</h1>
