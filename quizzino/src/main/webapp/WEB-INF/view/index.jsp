@@ -26,15 +26,15 @@
 	    <label for="psw"><b>Password</b></label>
 	    <input type="password" placeholder="Enter Password" name="psw" required>
 	
-	    <button id="button" type="submit">Login</button>
+	    <button id="button" type="submit">Accedi</button>
 	    <label>
-	      <input type="checkbox" checked="checked" name="remember"> Remember me
+	      <input type="checkbox" checked="checked" name="remember"> Ricordami per 30 giorni
 	    </label>
 	  </div>
 	
 	  <div class="container">
 	    <button type="button" class="cancelbtn">Cancel</button>
-	    <span class="psw">Forgot <a href="fpass">password?</a></span>
+	    <span class="psw">Hai dimenticato la <a href="fpass">password?</a></span>
 	    <span class="new">Non sei ancora iscritto a Quizzino?<a href="aUser">Iscriviti Subito! ;)</a></span>
 	  </div>
 	</form>

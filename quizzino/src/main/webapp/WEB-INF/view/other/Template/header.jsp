@@ -11,7 +11,6 @@
     <body>
     <div class="navbar">
   <a href="#home">Home</a>
-  <a href="#news">News</a>
   <div class="dropdown">
     <button class="dropbtn">Classifiche 
       <i class="fa fa-caret-down"></i>
@@ -20,7 +19,7 @@
       <a href="#">Classifica Giornaliera</a>
       <a href="#">Classifica Settimanale</a>
       <a href="#">Classifica Generale</a>
-      <a href="#">Classifica re della Città</a>   
+      <a href="#">Classifica Re della Città</a>   
     </div>
   </div> 
     
@@ -29,10 +28,18 @@
           <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-          <a href="#">Storia </a>
-          <a href="#">Geografia</a>
-          <a href="#">Matematica</a>
-          <a href="#"></a>   
+      	  <a href="#">Arte</a>
+      	  <a href="#">Attualità</a>
+      	  <a href="#">Cinema</a>
+      	  <a href="#">Geografia</a>
+      	  <a href="#">Lettere</a>
+      	  <a href="#">Logica</a>
+      	  <a href="#">Matematica</a>
+      	  <a href="#">Musica</a>
+      	  <a href="#">Scienze</a>
+      	  <a href="#">Sport</a>
+          <a href="#">Storia</a>
+          <a href="#">Tecnologia</a>
         </div>
       </div> 
   <div class="dropdown">
@@ -40,7 +47,10 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Vedi il tuo Account</a>
+      <a href="#">Il tuo Profilo</a>
+      <a href="#">Modifica i tuoi dati</a>
+      <a href="#">I miei migliori punteggi</a>
+      <a href="#">Posta in arrivo</a>
       <a href="#">Premium</a>
         
     </div>
