@@ -7,12 +7,14 @@
 <title>Login_page</title>
 <link rel="stylesheet" type="text/css" href="../resources/theme/css/main.css">
 </head>
-<body>
+
+<body background="../resources/images/sfondo home.jpg" style="width:100% ; height:100% ; background-position:center center; background-repeat:no-repeat; background-size:cover"/>
+
 <h1>Benvenuto in Quizzino!</h1>
 
 <form action="action_page.php">
   <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+    <img src="../resources/images/LogoTrasparente.png" alt="Avatar" >
   </div>
 
   <div class="container">
