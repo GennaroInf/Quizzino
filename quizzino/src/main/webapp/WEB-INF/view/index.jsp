@@ -16,7 +16,7 @@
 	<div class=bigcontainer>
 	<form action="action_page.php">
 	  <div class="imgcontainer">
-	    <img src="../resources/images/LogoTrasparente.png" alt="Avatar" >
+	    <img src="../resources/images/LogoFinito.png" alt="Avatar" >
 	  </div>
 	
 	  <div class="container">

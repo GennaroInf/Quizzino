@@ -5,6 +5,8 @@
 <head>
 	<meta charset="ISO-8859-1">
 	<title>Iscriviti!</title>
+	<link rel="stylesheet" type="text/css" href="../resources/theme/css/main.css">
+	<jsp:include page="../other/Template/header.jsp"/>
 </head>
 <body>
 	<h1>Iscriviti subito a Quizzino!</h1>

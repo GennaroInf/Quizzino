@@ -5,6 +5,8 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="../resources/theme/css/main.css">
+<jsp:include page="../other/Template/header.jsp"/>
 </head>
 <body>
 	<h1>Recupera la tua password</h1>
